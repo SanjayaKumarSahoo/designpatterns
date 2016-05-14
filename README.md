@@ -7,9 +7,10 @@ Creational patterns <br/>
 1 - Builder <br/>
 
 
-Structural patterns
+Structural patterns <br/>
 1 - Decorator <br/>
 
 Behavioral patterns
 1 - Iterator <br/> 
 2 - Chain of Responsibility <br/>
+3 - Command <br/>
