@@ -15,4 +15,5 @@ Behavioral patterns <br/>
 2 - Chain of Responsibility <br/>
 3 - Command <br/>
 4 - Null Object <br/>
-5 - Template method <br/> 
+5 - Template method <br/>
+6 - Strategy <br/>
