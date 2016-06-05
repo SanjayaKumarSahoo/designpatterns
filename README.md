@@ -12,6 +12,7 @@ Creational patterns <br/>
 Structural patterns <br/>
 1 - Decorator <br/>
 2 - Proxy <br/>
+3 - Flyweight <br/>
 
 Behavioral patterns <br/>
 1 - Iterator <br/> 
