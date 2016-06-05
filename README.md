@@ -6,10 +6,12 @@ GOF Design patterns in java , with unit test cases
 Creational patterns <br/>
 1 - Builder <br/>
 2 - Object pool <br/>
+3 - Singleton <br/>
 
 
 Structural patterns <br/>
 1 - Decorator <br/>
+2 - Proxy <br/>
 
 Behavioral patterns <br/>
 1 - Iterator <br/> 
