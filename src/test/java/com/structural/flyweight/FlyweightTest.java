@@ -1,4 +1,4 @@
-package com.structural;
+package com.structural.flyweight;
 
 import org.junit.Assert;
 import org.junit.Test;
