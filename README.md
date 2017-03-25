@@ -15,6 +15,7 @@ Structural patterns <br/>
 3 - Flyweight <br/>
 4 - Facade <br/>
 5 - Private Class Data <br/>
+6 - Adapter <br/>
 
 Behavioral patterns <br/>
 1 - Iterator <br/> 
