@@ -1,9 +1,9 @@
-package com.structural.facade;
+package com.structural.privateclassdata;
 
 
 import java.util.List;
 
-public class MailDetails {
+public class MailDetailsData {
 
     private final String subject;
     private final String from;
@@ -12,7 +12,7 @@ public class MailDetails {
     private final List<String> bcc;
     private final String contents;
 
-    public MailDetails(String subject, String from, List<String> to, List<String> cc, List<String> bcc, String contents) {
+    public MailDetailsData(String subject, String from, List<String> to, List<String> cc, List<String> bcc, String contents) {
         this.subject = subject;
         this.from = from;
         this.to = to;
@@ -23,6 +23,10 @@ public class MailDetails {
 
     public String getSubject() {
         return subject;
+    }
+
+    public String getFrom() {
+        return from;
     }
 
     public List<String> getTo() {
@@ -41,13 +45,10 @@ public class MailDetails {
         return contents;
     }
 
-    public String getFrom() {
-        return from;
-    }
 
     @Override
     public String toString() {
-        return "MailDetails{" +
+        return "MailDetailsData{" +
                 "subject='" + subject + '\'' +
                 ", from='" + from + '\'' +
                 ", to=" + to +

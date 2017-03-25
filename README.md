@@ -14,6 +14,7 @@ Structural patterns <br/>
 2 - Proxy <br/>
 3 - Flyweight <br/>
 4 - Facade <br/>
+5 - Private Class Data <br/>
 
 Behavioral patterns <br/>
 1 - Iterator <br/> 
