@@ -1,6 +1,6 @@
 # designpatterns
 
-GOF Design patterns in java , with unit test cases
+GOF Design patterns in java
 
 
 Creational patterns <br/>
@@ -16,6 +16,7 @@ Structural patterns <br/>
 4 - Facade <br/>
 5 - Private Class Data <br/>
 6 - Adapter <br/>
+7 - Bridge <br/>
 
 Behavioral patterns <br/>
 1 - Iterator <br/> 
