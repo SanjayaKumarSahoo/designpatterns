@@ -25,3 +25,4 @@ Behavioral patterns <br/>
 4 - Null Object <br/>
 5 - Template method <br/>
 6 - Strategy <br/>
+7 -  Visitor <br/>
