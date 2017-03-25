@@ -13,6 +13,7 @@ Structural patterns <br/>
 1 - Decorator <br/>
 2 - Proxy <br/>
 3 - Flyweight <br/>
+4 - Facade <br/>
 
 Behavioral patterns <br/>
 1 - Iterator <br/> 
